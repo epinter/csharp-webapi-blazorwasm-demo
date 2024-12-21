@@ -1,0 +1,12 @@
+{
+  "AzureAd": {
+    "Authority": "https://login.microsoftonline.com/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/",
+    "ClientId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "ValidateAuthority": true
+  },
+  "General": {
+    "DefaultTokenScope": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/access",
+    "ApiUrl": "http://localhost:5000",
+    "HandlerAuthScope": "api://xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/access"
+  }
+}
